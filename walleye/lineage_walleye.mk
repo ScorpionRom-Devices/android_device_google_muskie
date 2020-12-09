@@ -18,8 +18,8 @@ PRODUCT_RESTRICT_VENDOR_FILES := false
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=walleye \
-    PRIVATE_BUILD_DESC="walleye-user 11 RP1A.201005.004 6782484 release-keys"
+    PRIVATE_BUILD_DESC="walleye-user 11 RP1A.201005.004.A1 6934943 release-keys"
 
-BUILD_FINGERPRINT := google/walleye/walleye:11/RP1A.201005.004/6782484:user/release-keys
+BUILD_FINGERPRINT := google/walleye/walleye:11/RP1A.201005.004.A1/6934943:user/release-keys
 
 $(call inherit-product-if-exists, vendor/google/walleye/walleye-vendor.mk)
