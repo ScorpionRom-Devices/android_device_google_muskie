@@ -15,6 +15,36 @@
    "branch":      "sr4"
  },
  {
+   "repository":  "gibranmather/hardware_qcom_msm8998",
+   "target_path": "hardware/qcom/msm8998",
+   "branch":      "sr4"
+ },
+ {
+   "repository":  "gibranmather/glibc",
+   "target_path": "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8",
+   "branch":      "sr4"
+ },
+ {
+   "repository":  "gibranmather/prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9",
+   "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9",
+   "branch":      "sr4"
+ },
+ {
+   "repository":  "gibranmather/prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9",
+   "target_path": "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9",
+   "branch":      "sr4"
+ },
+ {
+   "repository":  "gibranmather/keygen",
+   "target_path": "keygen",
+   "branch":      "sr4"
+ },
+ {
+   "repository":  "gibranmather/arm64-gcc",
+   "target_path": "prebuilts/gcc/linux-x86/aarch64/arm64-gcc",
+   "branch":      "sr4"
+ },
+ {
    "repository":  "abc_gapps",
    "target_path": "vendor/pixelgapps",
    "branch":      "sr4"
