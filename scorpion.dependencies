@@ -20,16 +20,6 @@
    "branch":      "sr4"
  },
  {
-   "repository":  "gibranmather/prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9",
-   "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9",
-   "branch":      "sr4"
- },
- {
-   "repository":  "gibranmather/prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9",
-   "target_path": "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9",
-   "branch":      "sr4"
- },
- {
    "repository":  "gibranmather/keygen",
    "target_path": "keygen",
    "branch":      "sr4"
