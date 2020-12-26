@@ -5,7 +5,7 @@
    "branch":      "sr4"
  },
  {
-   "repository":  "ScorpionRom-Devices/vendor_google",
+   "repository":  "gibranmather/proprietary_vendor_google",
    "target_path": "vendor/google",
    "branch":      "sr4"
  },
