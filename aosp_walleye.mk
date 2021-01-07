@@ -18,7 +18,6 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 
-
 $(call inherit-product, device/google/walleye/device-walleye.mk)
 
 PRODUCT_PACKAGES += \

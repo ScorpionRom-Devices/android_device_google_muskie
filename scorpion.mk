@@ -26,16 +26,7 @@ $(call inherit-product, device/google/walleye/aosp_walleye.mk)
 PRODUCT_NAME := scorpion_walleye
 PRODUCT_DEVICE := walleye
 PRODUCT_BRAND := google
-PRODUCT_MODEL := Pixel 5a
-
-PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRODUCT_NAME="walleye" \
-    PRIVATE_BUILD_DESC="walleye-user 11 RP1A.201005.004 6782484 release-keys"
-
-BUILD_FINGERPRINT := "google/redfin/redfin:11/RQ1A.201205.010/6953398:user/release-keys"
-
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.build.fingerprint=google/redfin/redfin:11/RQ1A.201205.010/6953398:user/release-keys
+PRODUCT_MODEL := Pixel 2
 
 $(call inherit-product-if-exists, vendor/google/walleye/walleye-vendor.mk)
 $(call inherit-product-if-exists, vendor/pixelgapps/pixel-gapps.mk)
